@@ -1,10 +1,10 @@
 /*  ---------------------------------------------------
-    Template Name: Ogani
-    Description:  Ogani eCommerce  HTML Template
-    Author: Colorlib
-    Author URI: https://colorlib.com
+    Site Name: white-ocean
+    Description:  white-ocean eCommerce  HTML Site
+    Author: white-ocean.online
+    Author URI: https://white-ocean.online
     Version: 1.0
-    Created: Colorlib
+    Created: white-ocean.online
 ---------------------------------------------------------  */
 
 'use strict';

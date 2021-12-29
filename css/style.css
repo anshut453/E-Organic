@@ -1,16 +1,16 @@
 /******************************************************************
-  Template Name: Ogani
-  Description:  Ogani eCommerce  HTML Template
-  Author: Colorlib
-  Author URI: https://colorlib.com
+  Site Name: White-ocean
+  Description:  White-ocean eCommerce  HTML Site
+  Author: white-ocean.online
+  Author URI: https://white-ocean.online
   Version: 1.0
-  Created: Colorlib
+  Created: white-ocean.online
 ******************************************************************/
 
 /*------------------------------------------------------------------
 [Table of contents]
 
-1.  Template default CSS
+1.  Site default CSS
 	1.1	Variables
 	1.2	Mixins
 	1.3	Flexbox
@@ -27,7 +27,7 @@
 -------------------------------------------------------------------*/
 
 /*----------------------------------------*/
-/* Template default CSS
+/* Site default CSS
 /*----------------------------------------*/
 
 html,
@@ -85,6 +85,7 @@ p {
 
 img {
 	max-width: 100%;
+	margin-top: -8px;
 }
 
 input:focus,
