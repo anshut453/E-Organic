@@ -1,0 +1,16 @@
+.body{
+    background-color: rgb(230, 230, 230);
+}
+
+.program{
+    margin: 20px;
+}
+
+.program .group{
+    margin: 20px;
+    display: flex;
+}
+
+/* .frame{
+    margin-right: 3px;
+} */
