@@ -18,6 +18,12 @@
     margin-bottom: 10px;
     
 }
+
+.program .program1{
+    margin-top: 15px;
+    
+    
+}
 .program .group{
     position: static;
     display: inline-flex;
